@@ -1,22 +1,29 @@
 
 # Hi there 👋, I'm Praneet S!
 
-💻 Computer Science Engineering Student | 🚀 Aspiring Software Developer | ☕ Passionate Learner
+🎓 Computer Science Engineering Student | 💻 Aspiring Software Developer | 🚀 Passionate Learner
 
 ---
 
 ## 🙋‍♂️ About Me
 
 - 🎓 Undergraduate student in Computer Science Engineering.
-- 🌱 Currently learning Java, C, C++ and Python.
-- 🚀 Eager to explore Web Development and new technologies.
-- 👨‍💻 Interested in programming and problem-solving.
-- 🤝 Open to learning, collaboration and beginner-friendly projects.
-- 🎯 My goal is to become a skilled software developer.
+- 💡 Interested in programming, technology and problem-solving.
+- 🌱 Currently learning C, C++, Java and Python.
+- 🌐 Eager to explore and learn Web Development.
+- 🚀 Building beginner-friendly projects and gaining practical experience.
+- 🤝 Interested in open-source projects and collaboration.
+- 🎯 Aspiring to become a skilled software developer.
 
 ---
 
-## 🚀 Tech Stack
+## 🎯 My Mission
+
+My mission is to continuously learn new technologies, develop practical projects, improve my problem-solving skills and contribute to the developer community.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
@@ -39,6 +46,28 @@
 
 ---
 
+## 🏆 Featured Projects
+
+### 🚀 StaffHub – Staff Management System
+
+A simple staff management website designed to manage employee details, attendance, leave applications and staff tasks.
+
+**Features:**
+- Admin and Staff Login
+- Employee Details Management
+- Attendance Management
+- Leave Application and Approval
+- Task Assignment and Tracking
+- Staff Profile Management
+
+**Technologies:** HTML, CSS, JavaScript, Local Storage
+
+### 💡 More Projects Coming Soon!
+
+Currently learning new concepts and building projects to improve my programming and development skills.
+
+---
+
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneet464&show_icons=true&theme=tokyonight&hide_border=true)
@@ -47,27 +76,11 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚀 StaffHub – Staff Management System
-
-A simple staff management website designed to manage employee details, attendance, leave requests and staff tasks.
-
-**Technologies:** HTML, CSS, JavaScript, Local Storage.
-
-### 💡 Project Two – Coming Soon
-
-Currently learning new concepts and working towards building more projects.
-
-### 🔥 Project Three – Coming Soon
-
-Exploring new technologies and improving my programming skills through practical projects.
-
----
-
 ## 🤝 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneet464)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneet-subramani/)
 
 ---
 
