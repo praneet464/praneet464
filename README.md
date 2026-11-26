@@ -1,60 +1,73 @@
 
-# Hi, I'm Praneet S! 👋
+# Hi there 👋, I'm Praneet S!
 
-🎓 Computer Science Engineering Student  
-💻 Interested in Programming and Technology  
-🌱 Currently learning Java, Python and C.  
-🌐 Eager to learn and explore Web Development.  
-🚀 Building projects and improving my programming skills.
+💻 Computer Science Engineering Student | 🚀 Aspiring Software Developer | ☕ Passionate Learner
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
 - 🎓 Undergraduate student in Computer Science Engineering.
-- 💡 Interested in programming, technology and problem-solving.
-- 🌱 Learning new programming languages and technologies.
-- 🌐 Excited to explore HTML, CSS and JavaScript.
-- 🔭 Working on beginner-friendly projects.
-- 🚀 Always eager to learn new skills and gain practical experience.
-- 🎯 Goal: Become a skilled software developer.
+- 🌱 Currently learning Java, C, C++ and Python.
+- 🚀 Eager to explore Web Development and new technologies.
+- 👨‍💻 Interested in programming and problem-solving.
+- 🤝 Open to learning, collaboration and beginner-friendly projects.
+- 🎯 My goal is to become a skilled software developer.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Tech Stack
 
-- **Programming Languages:** C, C++, Java, Python
-- **Currently Exploring:** HTML, CSS, JavaScript
-- **Tools:** VS Code, Git, GitHub, GitHub Desktop
-- **Database:** SQL
+### Programming Languages
 
----
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🚀 My Projects
+### Currently Exploring
 
-### 1. StaffHub – Staff Management System
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-A simple staff management website with employee details, attendance tracking, leave management and task assignment.
+### Tools & Platforms
 
-**Technologies:** HTML, CSS, JavaScript, Local Storage
-
-### 2. More Projects Coming Soon!
-
-Currently learning and building new projects to improve my programming and development skills.
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praneet464&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praneet464&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me
+## 🌟 Featured Projects
 
-- GitHub: https://github.com/YOUR-USERNAME
+### 🚀 StaffHub – Staff Management System
+
+A simple staff management website designed to manage employee details, attendance, leave requests and staff tasks.
+
+**Technologies:** HTML, CSS, JavaScript, Local Storage.
+
+### 💡 Project Two – Coming Soon
+
+Currently learning new concepts and working towards building more projects.
+
+### 🔥 Project Three – Coming Soon
+
+Exploring new technologies and improving my programming skills through practical projects.
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneet464)
 
 ---
 
